@@ -48,6 +48,6 @@ pip install -r requirements.txt
 3. Launch Jupyter Notebook
 jupyter notebook
 4. Open and run:
-Open Plastic_Classification.ipynb and run all cells to see the results.
+Open .ipynb file  and run all cells to see the results.
 
 
