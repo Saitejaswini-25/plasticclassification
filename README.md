@@ -1,10 +1,10 @@
-# 🧪 Plastic Classification using Machine Learning
+#  Plastic Classification using Machine Learning
 
 This project is a machine learning-based solution to classify different types of plastics based on their characteristics. The goal is to support sustainable waste management and recycling by automating the identification process of plastic types.
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 - Built using **Python** in a **Jupyter Notebook**
 - Performs classification of plastic types using traditional ML models
@@ -13,15 +13,15 @@ This project is a machine learning-based solution to classify different types of
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
-- 🐍 Python
-- 📘 Jupyter Notebook
-- 📊 Pandas, NumPy, Matplotlib, Seaborn
-- 🤖 Scikit-learn
+- Python
+- Jupyter Notebook
+- Pandas, NumPy, Matplotlib, Seaborn
+- Scikit-learn
 
 
-## 🧠 Key Features
+## Key Features
 
 - Exploratory Data Analysis (EDA)
 - Correlation heatmap and visualizations
@@ -39,7 +39,7 @@ This project is a machine learning-based solution to classify different types of
   - Confusion Matrix
 
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository
 cd plastic-classification
